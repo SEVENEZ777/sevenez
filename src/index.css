@@ -1,13 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@500&family=Island+Moments&family=Playfair+Display:wght@500&family=Raleway:wght@100;300&family=Waterfall&family=Yanone+Kaffeesatz&display=swap');
+
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  color: whitesmoke;
+  background-color: whitesmoke;
+  font-family: 'Raleway', sans-serif;
+  color: #333;
+}
+a {
+  color: rgb(0, 0, 0);
+}
+img {
+  max-width: 100%;
+}
+nav {
+  display: flex;
+  gap: 17px;
+  align-items: center;
+  max-width: auto;
+  
+  height: 40px;
+  background-color: whitesmoke;
+
+  
+  
+}
+nav h1 {
+  margin-right: auto;
+  margin-left: 17px;
+}
+.content {
+  font-family: 'Raleway', sans-serif;
+  font-size: large;
+
+  max-width: 960px;
+  margin: 0 auto;
+}
+.product {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 30px;
+}
+.offers, .products {
+  display: flex;
+  gap: 20px;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.title {
+  color:powderblue;
+  text-align: center;
 }
+
+.subtitle {
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+  color: azure;
+}
+
+.container {
+  padding-bottom: 100px;
+}
+
+.schrift {
+  color: black;
+}
+
+

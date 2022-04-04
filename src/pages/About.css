@@ -1,0 +1,52 @@
+img {
+    width: 100%;
+    text-align: center;
+    align-content: center;
+    box-sizing: border-box;
+    
+}
+
+body {
+    background-color: whitesmoke;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+}
+
+.schrift {
+    text-align: center;
+}
+
+form {
+    text-align: center;
+}
+
+.container2 {
+    color: white;
+}
+
+
+p {
+    color: black;
+    
+}
+
+h4 {
+    text-align: center;
+}
+
+.navdown {
+    text-align: center;
+    align-items: center;
+    display: grid;
+    background-color: whitesmoke; 
+    padding: 5px;
+}
+
+.donate {
+    font-size: 5px;
+    font-weight: 100;
+}
+
