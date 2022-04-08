@@ -1,0 +1,155 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@500&family=Island+Moments&family=Playfair+Display:wght@500&family=Raleway:wght@100;300&family=Waterfall&family=Yanone+Kaffeesatz&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Vollkorn:ital@1&display=swap');
+
+button {
+    font-family: 'Raleway', sans-serif;
+    display: block;
+    width: 200px;
+    font-size: 15px;
+    color: rgb(0, 0, 0);
+    padding: 8px;
+    border: 0;
+    border-radius: 4px;
+    background-color: lavender;
+    cursor: pointer;
+    text-decoration: none;
+    margin: 20px auto;
+}
+
+
+.title-home {
+    text-align: center;
+    color: aqua;
+}
+
+.subtitle-home {
+    color: rgb(241, 0, 221);
+    text-align: center;
+}
+
+img {    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 170px;
+    padding: 50px;
+}
+
+.seven {
+    
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    color:aqua;
+    font-family: 'Raleway', sans-serif;
+    
+}
+
+.header {
+    text-align: center;
+    color: azure;
+}
+
+.drei {
+    margin-right: 17px;
+}
+
+p {
+    text-align: center;
+    color: azure;
+}
+
+.vision {
+    font-family: 'Raleway', sans-serif;
+}
+
+.logo {
+    height: 250px;
+    width: 270px;
+}
+
+@keyframes logo {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+
+.text {
+    color: azure;
+}
+
+img {
+    width: 100%;
+    text-align: center;
+    align-content: center;
+    box-sizing: border-box;
+    
+}
+
+body {
+    background-color: whitesmoke;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+}
+
+.schrift {
+    text-align: center;
+}
+
+form {
+    text-align: center;
+}
+
+.container2 {
+    color: white;
+}
+
+
+p {
+    color: black;
+    
+}
+
+h4 {
+    text-align: center;
+}
+
+.navdown {
+    text-align: center;
+    align-items: center;
+    display: grid;
+    background-color: whitesmoke; 
+    padding: 5px;
+}
+
+.footer2 {
+    color: azure;
+}
+
+.seperator {
+    width: 300px;
+    height: 5px;
+    background: aqua;
+    margin: 20px auto;
+    border-radius: 7px;
+    
+}
+
+.seperator2 {
+    height: 7px;
+}
+
+.seperator3 {
+    width: 300px;
+    height: 5px;
+    background: rgb(241, 0, 221);
+    margin: 20px auto;
+    border-radius: 7px;
+}
